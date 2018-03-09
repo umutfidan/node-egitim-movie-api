@@ -1,2 +1,2 @@
 # node-egitim-movie-api
-Node.JS Eğitim Seti - Movie API
+Node.JS Eğitim Seti - Movie API test
