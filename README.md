@@ -13,7 +13,7 @@ Node.JS Eğitim Seti - Movie API test
 | /api/movies/top10 | `GET` | Empty | Get the top 10 movies. |
 | /api/movies/between/:start_year/:end_year | `GET` | Empty | Movies between two years. |
 
-#Directors
+# Directors
 
 | Route | HTTP Verb | POST body | Description |
 | --- | --- | --- | --- |
