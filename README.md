@@ -28,5 +28,5 @@ Node.JS Eğitim Seti - Movie API test
 
 |Route | HTTP Verb | Post body | Description |
 | --- | --- | --- | --- |
-| /register | `POST` | POST body | Description
+| /register | `POST` | { username:'foo', password:'1234'} | Create a new user.
 
