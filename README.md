@@ -24,3 +24,9 @@ Node.JS Eğitim Seti - Movie API test
 | /api/directors/:director_id | DELETE | Empty | Delete a director
 | /api/directors/:best10movie | GET | Empty | The director's top 10 films.
 
+# Users
+
+|Route | HTTP Verb | Post body | Description |
+| --- | --- | --- | --- |
+| /register | POST | POST body | Description
+
